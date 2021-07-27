@@ -1,0 +1,9 @@
+* Template
+
+#+begin_quote
+
+Hola {nombre},
+
+Te escribo para darle seguimiento a lo que conversamos para que des una plática en el seminario para los alumnos de la maestría en ciencia de datos. La fecha propuesta es para el día 13 de Agosto a las 4:00pm. El formato será remoto por medio de zoom y contarás para tu sesión con 45 minutos + 10 minutos de Q&A . ¿Podemos contar con tu participación?
+
+#+end_quote
