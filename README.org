@@ -14,17 +14,16 @@
 |      4 | <2021-08-27> |                     |                                  |          |        |                                |
 |      5 | <2021-09-03> | Teresa Ortiz        | Ciencia de datos en democracia   |        1 |        | teresa.ortiz.mancera@gmail.com |
 |      6 | <2021-09-10> | Laura Gomez         | Detección de objetos con ML      |        1 | X      | laura92.gmzb@gmail.com         |
-|      7 | <2021-09-17> |                     |                                  |          |        |                                |
-|        | <2021-09-24> | Parviz Foroughian   | Data Analytics in the Enterprise |        1 |        |                                |
-|      8 | <2021-10-01> | Kael Huerta         | Data Science en el Extranjero    |        1 |        | kaelhuerta@gmail.com           |
-|      9 | <2021-10-08> | Ana B. Coronel      | Sector Financiero                |        1 | X      | abcoronel@bb.com.mx            |
-|     10 | <2021-10-15> | Rodrigo Rivera      | MLOps                            |        2 |        |                                |
-|     11 | <2021-10-22> | Rodrigo Rivera      | MLOps                            |        2 |        |                                |
-|     12 | <2021-10-29> | Oliver Lopez Corona | Complejidad en Análisis da datos |        2 | X      | lopezoliverx@ciencias.unam.mx  |
-|     13 | <2021-11-05> | Carlos Correa       | Datos abiertos y geo-análisis    |        1 | X      | ccastro6@itam.mx               |
-|     14 | <2021-11-12> |                     |                                  |          |        |                                |
-|     15 | <2021-11-19> |                     |                                  |          |        |                                |
-|     16 | <2021-11-26> |                     |                                  |          |        |                                |
+|      7 | <2021-09-17> | Mariana Carmona     |                                  |        1 | X      | mcarmonabaez@gmail.com         |
+|      8 | <2021-09-24> | Parviz Foroughian   | Data Analytics in the Enterprise |        1 |        |                                |
+|      9 | <2021-10-01> | Kael Huerta         | Data Science en el Extranjero    |        1 |        | kaelhuerta@gmail.com           |
+|     10 | <2021-10-08> | Ana B. Coronel      | Sector Financiero                |        1 | X      | abcoronel@bb.com.mx            |
+|     11 | <2021-10-15> | Rodrigo Rivera      | MLOps                            |        2 |        |                                |
+|     12 | <2021-10-22> | Rodrigo Rivera      | MLOps                            |        2 |        |                                |
+|     13 | <2021-10-29> | Oliver Lopez Corona | Complejidad en Análisis da datos |        2 | X      | lopezoliverx@ciencias.unam.mx  |
+|     14 | <2021-11-05> | Carlos Correa       | Datos abiertos y geo-análisis    |        1 | X      | ccastro6@itam.mx               |
+|     15 | <2021-11-12> |                     |                                  |          |        |                                |
+|     16 | <2021-11-19> |                     |                                  |          |        |                                |
 |--------+--------------+---------------------+----------------------------------+----------+--------+--------------------------------|
-|        |              |                     |                                  |       16 |        |                                |
+|        |              |                     |                                  |       17 |        |                                |
 #+TBLFM: $5=vsum(@2$5..@18$5)
