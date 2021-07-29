@@ -12,7 +12,7 @@
 |      2 | <2021-08-13> | Fernanda Duran      | Aprendizaje por Refuerzo         |        1 | X      | mfadurand@gmail.com            |
 |      3 | <2021-08-20> | Andrea García Tapia | Taller Visualización             |        2 | X      | agarciat@stevens.edu           |
 |      4 | <2021-08-27> |                     |                                  |          |        |                                |
-|      5 | <2021-09-03> | Teresa Ortiz        | Ciencia de datos en democracia   |        1 |        | teresa.ortiz.mancera@gmail.com |
+|      5 | <2021-09-03> | Teresa Ortiz        | Ciencia de datos en democracia   |        1 | X      | teresa.ortiz.mancera@gmail.com |
 |      6 | <2021-09-10> | Laura Gomez         | Detección de objetos con ML      |        1 | X      | laura92.gmzb@gmail.com         |
 |      7 | <2021-09-17> | Mariana Carmona     | R en ambientes productivos       |        1 | X      | mcarmonabaez@gmail.com         |
 |      8 | <2021-09-24> | Parviz Foroughian   | Data Analytics in the Enterprise |        1 |        |                                |
