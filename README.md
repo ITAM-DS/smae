@@ -23,6 +23,6 @@ Además, durante las pláticas y/o talleres deben participar con preguntas o con
 
 En la organización de Github la cual está integrada con Github Classroom.
 
-## Agenda y organización de Github
+# Agenda y organización de Github
 
 La encuentran en [fall-2021](https://github.com/ITAM-DS/smae/tree/fall-2021)
