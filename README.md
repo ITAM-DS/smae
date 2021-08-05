@@ -23,10 +23,12 @@ Además, durante las pláticas y/o talleres deben participar con preguntas o con
 
 En la organización de Github la cual está integrada con Github Classroom.
 
-Para el otoño 2021 es:
+# otoño 2021
+
+## Organización de Github
 
 [smae-2021-gh-classroom](https://github.com/smae-2021-gh-classroom)
 
-# Agenda
+## Agenda
 
 La encuentran en [fall-2021](https://github.com/ITAM-DS/smae/tree/fall-2021)
