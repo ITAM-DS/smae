@@ -24,3 +24,6 @@
 #+TBLFM: $6=vsum(@2$6..@18$6)
 
 
+* Organización de Github ligada a Github Classroom
+
+[[https://github.com/smae-2021-gh-classroom][smae-2021-gh-classroom]]
