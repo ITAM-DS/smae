@@ -1,9 +1,4 @@
-
-* Repositorio para la materia de Seminario Analítico de Empresa (SMAE)
-
-La agenda que tendremos para este Otoño se presenta en la tabla de abajo.  
-
-* Agenda
+# Agenda
 
 
 | Sesión | Fecha        | Hora     | Ponente             | Tema (tentativos)                | Duración | Status | email                          |
@@ -27,3 +22,7 @@ La agenda que tendremos para este Otoño se presenta en la tabla de abajo.
 |--------+--------------+----------+---------------------+----------------------------------+----------+--------+--------------------------------|
 |        |              |          |                     |                                  |       17 |        |                                |
 #+TBLFM: $6=vsum(@2$6..@18$6)
+
+# Organización de Github en la que deberán subir sus asignaciones
+
+[smae-2021-gh-classroom](https://github.com/smae-2021-gh-classroom)
