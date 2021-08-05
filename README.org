@@ -1,4 +1,4 @@
-# Agenda
+* Agenda
 
 
 | Sesión | Fecha        | Hora     | Ponente             | Tema (tentativos)                | Duración | Status | email                          |
@@ -23,6 +23,6 @@
 |        |              |          |                     |                                  |       17 |        |                                |
 #+TBLFM: $6=vsum(@2$6..@18$6)
 
-# Organización de Github en la que deberán subir sus asignaciones
+Organización de Github en la que deberán subir sus asignaciones
 
-[smae-2021-gh-classroom](https://github.com/smae-2021-gh-classroom)
+https://github.com/smae-2021-gh-classroom
