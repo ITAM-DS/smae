@@ -9,15 +9,15 @@ Pláticas y/o talleres de actualización, temas en la frontera, desarrollo de t�
 
 # Calificación
 
-|Ensayos y/o ejercicios (5) | Participación|
+|Ensayos y/o ejercicios (4) | Participación|
 |:---:|:---:|
 |70 % | 30%|
 
-De todas las presentaciones o talleres que se darán elegir 5 para entregar 5 ensayos de extensión entre 800 y 1000 palabras y/o ejercicios que se den. 
+De todas las presentaciones o talleres que se darán elegir 4 para entregar 4 ensayos de extensión entre 800 y 1000 palabras y/o ejercicios que se den. 
 
-👉 las 5 que elijan deben ser de las presentaciones o talleres que se den a lo largo del semestre, no se aceptarán entregas que únicamente sean de la última semana de octubre y las del mes de noviembre, por ejemplo.
+👉 las 4 que elijan deben estar repartidas a lo largo del semestre, no se aceptarán entregas que únicamente sean de la última semana de octubre y las del mes de noviembre, por ejemplo.
 
-Podrían entregar por ejemplo 3 ensayos y 2 ejercicios, sólo 5 ensayos o cualquier combinación que resulte en cinco entregas en total. 
+Podrían entregar por ejemplo 3 ensayos y 1 ejercicios, sólo 4 ensayos o cualquier combinación que resulte en cuatro entregas en total. 
 
 Además, durante las pláticas y/o talleres deben participar con preguntas o contar experiencias relacionadas con los temas tratados que generen discusiones.
  
