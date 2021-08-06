@@ -23,11 +23,13 @@ Además, durante las pláticas y/o talleres deben participar con preguntas o con
  
 👉 así como con las entregas deben juntar en todo el semestre mínimo tres participaciones y deben ser repartidas. Una por ejemplo en el mes de agosto, otra en el mes de septiembre y finalmente en el mes de noviembre, o bien alguna otra combinación que ustedes decidan. Con cada participación obtienen 10% y como máximo obtendrán 30%. 
 
-# ¿Cuando y dónde envío mis entregas?
-
-En la organización de Github la cual está integrada con Github Classroom.
+# ¿Cuando, dónde, formato de mis entregas?
 
 La fecha máxima de las entregas es dos semanas una vez se imparte la presentación o el taller.
+
+En la organización de Github la cual está integrada con Github Classroom se suben sus entregas.
+
+El formato para sus entregas es con *notebooks* de *jupyter* o bien *.Rmd*'s que permitan ver los cambios que realizan. Si prefieren un pdf realicen la conversión a este formato una vez que hayan finalizado los cambios de sus *notebooks* o *.Rmd*'s.
 
 # Agenda y organización de Github
 
