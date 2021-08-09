@@ -4,7 +4,7 @@
 | Sesión | Fecha        | Hora     | Ponente             | Tema (tentativos)                | Duración | Status | email                          |
 |--------+--------------+----------+---------------------+----------------------------------+----------+--------+--------------------------------|
 |      1 | <2021-08-06> | 4:00 pm  | Erick/Alfredo       | Introducción                     |        1 | X      |                                |
-|      2 | <2021-08-13> | 4:00 pm  | Fernanda Duran      | Aprendizaje por Refuerzo         |        1 | X      | mfadurand@gmail.com            |
+|      2 | <2021-08-13> | 4:00 pm  | Fernanda Durand     | Aprendizaje por Refuerzo         |        1 | X      | mfadurand@gmail.com            |
 |      3 | <2021-08-20> | 4:00 pm  | Andrea García Tapia | Taller Visualización             |        2 | X      | agarciat@stevens.edu           |
 |      4 | <2021-08-27> |          |                     |                                  |          |        |                                |
 |      5 | <2021-09-03> | 4:00 pm  | Teresa Ortiz        | Ciencia de datos en democracia   |        1 | X      | teresa.ortiz.mancera@gmail.com |
