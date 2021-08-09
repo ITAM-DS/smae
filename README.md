@@ -31,6 +31,14 @@ En la organización de Github la cual está integrada con Github Classroom se su
 
 El formato para sus entregas es con *notebooks* de *jupyter* o bien *.Rmd*'s que permitan ver los cambios que realizan. Si prefieren un pdf realicen la conversión a este formato una vez que hayan finalizado los cambios de sus *notebooks* o *.Rmd*'s.
 
+# Sobre lo que nunca deben realizar
+
+Copiar en un examen/tarea/trabajo/entrega pues se pondrá cero en el mismo. Si vuelve a repetirse la situación se le notificará a dirección escolar para realizar la anotación correspondiente en su expediente.
+
+# Sobre lo que siempre deben realizar
+
+Documentar sus referencias, fuentes, colaboraciones y material que utilizan para resolver sus exámenes, prácticas o proyectos.
+
 # Agenda y organización de Github
 
 La encuentran en [fall-2021](https://github.com/ITAM-DS/smae/tree/fall-2021)
