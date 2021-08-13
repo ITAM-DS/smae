@@ -15,7 +15,7 @@ La asistencia es obligatoria para las personas inscritas en el seminario.
 |:---:|:---:|
 |70 % | 30%|
 
-De todas las presentaciones o talleres que se darán elegir 4 para entregar 4 ensayos de extensión entre 800 y 1000 palabras y/o ejercicios que se den. 
+De todas las pláticas o talleres que se darán elegir 4 para entregar 4 ensayos de extensión entre 800 y 1000 palabras y/o ejercicios que se den. 
 
 👉 las 4 que elijan deben estar repartidas a lo largo del semestre, no se aceptarán entregas que únicamente sean de la última semana de octubre y las del mes de noviembre, por ejemplo.
 
@@ -27,7 +27,7 @@ Además, durante las pláticas y/o talleres deben participar con preguntas o con
 
 # ¿Cuando, dónde, formato de mis entregas?
 
-La fecha máxima de las entregas es dos semanas una vez se imparte la presentación o el taller.
+La fecha máxima de las entregas es dos semanas una vez se imparte la plática o el taller.
 
 En la organización de Github la cual está integrada con Github Classroom se suben sus entregas.
 
