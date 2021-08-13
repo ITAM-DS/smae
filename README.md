@@ -7,7 +7,7 @@ Redondear las habilidades de los y las estudiantes e identificar áreas de oport
 
 Pláticas y/o talleres de actualización, temas en la frontera, desarrollo de técnicas o habilidades gerenciales, de negociación, de toma de decisiones. Principalmente casos documentados de éxito impartidas por investigadoras e investigadores, practicantes o compañías en ciencia de datos.
 
-La asistencia es obligatoria para las personas inscritas en el seminario.
+La asistencia a las exposiciones es obligatoria para las personas inscritas en el seminario.
 
 # Calificación
 
