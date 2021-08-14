@@ -15,7 +15,7 @@ La asistencia a las exposiciones es obligatoria para las personas inscritas en e
 |:---:|:---:|
 |70 % | 30%|
 
-De todas las pláticas o talleres que se darán elegir 4 para entregar 4 ensayos de extensión entre 800 y 1000 palabras y/o ejercicios que se den. 
+De todas las pláticas o talleres que se darán elegir 4 para realizar 4 entregas. Las entregas son ensayos de extensión entre 800 y 1000 palabras y/o ejercicios que se den. 
 
 👉 las 4 que elijan deben estar repartidas a lo largo del semestre, no se aceptarán entregas que únicamente sean de la última semana de octubre y las del mes de noviembre, por ejemplo.
 
@@ -23,7 +23,7 @@ Podrían entregar por ejemplo 3 ensayos y 1 ejercicios, sólo 4 ensayos o cualqu
 
 Además, durante las pláticas y/o talleres deben participar con preguntas o contar experiencias relacionadas con los temas tratados que generen discusiones.
  
-👉 así como con las entregas deben juntar en todo el semestre mínimo tres participaciones y deben ser repartidas. Una por ejemplo en el mes de agosto, otra en el mes de septiembre y finalmente en el mes de noviembre, o bien alguna otra combinación que ustedes decidan. Con cada participación obtienen 10% y como máximo obtendrán 30%. 
+👉 así como con las entregas, deben juntar en todo el semestre mínimo tres participaciones y deben ser repartidas. Una por ejemplo en el mes de agosto, otra en el mes de septiembre y finalmente en el mes de noviembre, o bien alguna otra combinación que ustedes decidan. Con cada participación obtienen 10% y como máximo obtendrán 30%. 
 
 # ¿Cuando, dónde, formato de mis entregas?
 
