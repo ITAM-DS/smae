@@ -17,7 +17,7 @@
 |     12 | <2021-10-22> | 10:00 am | Rodrigo Rivera      | Taller de MLOps                  |        2 | X      |                                |
 |     13 | <2021-10-29> | 4:00 pm  | Oliver Lopez Corona | Complejidad en Análisis de datos |        2 | X      | lopezoliverx@ciencias.unam.mx  |
 |     14 | <2021-11-05> | 4:00 pm  | Carlos Correa       | Datos abiertos y geo-análisis    |        1 | X      | ccastro6@itam.mx               |
-|     15 | <2021-11-12> |          |                     |                                  |          |        |                                |
+|     15 | <2021-11-12> |          | Juan Lavista        |                                  |          |        |                                |
 |     16 | <2021-11-19> |          |                     |                                  |          |        |                                |
 |--------+--------------+----------+---------------------+----------------------------------+----------+--------+--------------------------------|
 |        |              |          |                     |                                  |       17 |        |                                |
