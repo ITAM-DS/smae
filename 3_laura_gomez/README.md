@@ -6,4 +6,6 @@ Tycho Solutions es una start up mexicana enfocada en el sector de energías reno
 
 Lectura previa:
 
+descargar reporte en anuncio de Canvas.
+
 Viernes 27 de agosto 16:00
