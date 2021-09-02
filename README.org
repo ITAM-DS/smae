@@ -7,9 +7,9 @@
 |      2 | <2021-08-13> | 4:00 pm  | Fernanda Durand     | Aprendizaje por Refuerzo         |        1 | X      | mfadurand@gmail.com            |
 |      3 | <2021-08-20> | 4:00 pm  | Andrea García Tapia | Taller Visualización             |        2 | X      | agarciat@stevens.edu           |
 |      4 | <2021-08-27> | 4:00 pm  | Laura Gomez         | Detección de objetos con ML      |        1 | X      | laura92.gmzb@gmail.com         |
-|      5 | <2021-09-03> | 4:00 pm  | Michelle Anzarut/Teresa Ortiz| Ciencia de datos en democracia   |1| X      | anzarutm@hotmail.com, teresa.ortiz.mancera@gmail.com |
+|      5 | <2021-09-03> | 4:00 pm  | Michelle Anzarut/Teresa Ortiz| Ciencia de datos en democracia|1   | X      | anzarutm@hotmail.com, teresa.ortiz.mancera@gmail.com |
 |      6 | <2021-09-10> | 4:00 pm  | Julio, Yedam, Nayeli, Juan Carlos, Leonardo|           |          | X      |                                |
-|      7 | <2021-09-17> | 4:00 pm  | Mariana Carmona     | R en ambientes productivos       |        1 | X      | mcarmonabaez@gmail.com         |
+|      7 | <2021-09-17> | -        |  Asueto             |      -                           |          |        |                                |
 |      8 | <2021-09-24> | 9:00 am  | Parviz Foroughian   | Data in the Enterprise           |        1 | X      | info@parvizforoughian.com      |
 |      9 | <2021-10-01> | 4:00 pm  | Kael Huerta         | Data Science en el Extranjero    |        1 |        | kaelhuerta@gmail.com           |
 |     10 | <2021-10-08> | 4:00 pm  | Ana B. Coronel      | Sector Financiero                |        1 | X      | abcoronel@bb.com.mx            |
@@ -18,7 +18,7 @@
 |     13 | <2021-10-29> | 4:00 pm  | Oliver Lopez Corona | Complejidad en Análisis de datos |        2 | X      | lopezoliverx@ciencias.unam.mx  |
 |     14 | <2021-11-05> | 4:00 pm  | Carlos Correa       | Datos abiertos y geo-análisis    |        1 | X      | ccastro6@itam.mx               |
 |     15 | <2021-11-12> |          | Juan Lavista        |                                  |          |        |                                |
-|     16 | <2021-11-19> |          |                     |                                  |          |        |                                |
+|     16 | <2021-11-19> | 4:00 pm  | Mariana Carmona     | R en ambientes productivos       |        1 | X      | mcarmonabaez@gmail.com         |
 |--------+--------------+----------+---------------------+----------------------------------+----------+--------+--------------------------------|
 |        |              |          |                     |                                  |       17 |        |                                |
 #+TBLFM: $6=vsum(@2$6..@18$6)
