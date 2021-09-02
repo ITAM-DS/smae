@@ -7,8 +7,8 @@
 |      2 | <2021-08-13> | 4:00 pm  | Fernanda Durand     | Aprendizaje por Refuerzo         |        1 | X      | mfadurand@gmail.com            |
 |      3 | <2021-08-20> | 4:00 pm  | Andrea García Tapia | Taller Visualización             |        2 | X      | agarciat@stevens.edu           |
 |      4 | <2021-08-27> | 4:00 pm  | Laura Gomez         | Detección de objetos con ML      |        1 | X      | laura92.gmzb@gmail.com         |
-|      5 | <2021-09-03> | 4:00 pm  | Michelle Anzarut/Teresa Ortiz| Ciencia de datos en democracia|1   | X      | anzarutm@hotmail.com, teresa.ortiz.mancera@gmail.com |
-|      6 | <2021-09-10> | 4:00 pm  | Julio, Yedam, Nayeli, Juan Carlos, Leonardo|           |          | X      |                                |
+|      5 | <2021-09-03> | 4:00 pm  | Michelle Anzarut/Teresa Ortiz                          | Ciencia de datos en democracia                     |1                 | X      | anzarutm@hotmail.com, teresa.ortiz.mancera@gmail.com                             |
+|      6 | <2021-09-10> | 4:00 pm  | Julio, Yedam, Nayeli, Juan Carlos, Leonardo            | La justicia en cifras: 100 años del Poder Judicial y su interpretación de la constitución mexicana        |  1                  | X                                |                      julio.rios@itam.mx            |
 |      7 | <2021-09-17> | -        |  Asueto             |      -                           |          |        |                                |
 |      8 | <2021-09-24> | 9:00 am  | Parviz Foroughian   | Data in the Enterprise           |        1 | X      | info@parvizforoughian.com      |
 |      9 | <2021-10-01> | 4:00 pm  | Kael Huerta         | Data Science en el Extranjero    |        1 |        | kaelhuerta@gmail.com           |
