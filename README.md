@@ -31,7 +31,7 @@ La fecha máxima de las entregas es dos semanas una vez se imparte la plática o
 
 En la organización de Github la cual está integrada con Github Classroom se suben sus entregas.
 
-El formato para sus entregas es con *notebooks* de *jupyter* o bien *.Rmd*'s que permitan ver los cambios que realizan. Si prefieren un pdf realicen la conversión a este formato una vez que hayan finalizado los cambios de sus *notebooks* o *.Rmd*'s.
+El formato para sus entregas es con *notebooks* de *jupyter* o bien *.Rmd*'s que permitan ver los cambios que realizan. Si suben *.Rmd*'s también añadan un pdf o algún otro formato que sea fácilmente legible en su repo una vez que hayan finalizado los cambios.
 
 # Sobre lo que nunca deben realizar
 
