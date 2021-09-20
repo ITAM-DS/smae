@@ -6,12 +6,12 @@ The main purpose of the talk is to highlight the importance of forming a better 
 
 Agenda:
 
-Introduction
-Gaps in understanding data
-Overview of data ecosystem
-Example: core data characteristics
-Wrapping up
-Q & A
+* Introduction
+* Gaps in understanding data
+* Overview of data ecosystem
+* Example: core data characteristics
+* Wrapping up
+* Q & A
 
 Lectura previa:
 
