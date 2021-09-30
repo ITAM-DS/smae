@@ -11,7 +11,7 @@
 |      6 | <2021-09-10> | 4:00 pm  | Julio, Yedam, Nayeli, Juan Carlos, Leonardo            | La justicia en cifras: 100 años del Poder Judicial y su interpretación de la constitución mexicana        |  1                  | X                                | julio.rios@itam.mx, https://rios-figueroa.com      |
 |      7 | <2021-09-17> | -        |  Asueto             |      -                           |          |        |                                |
 |      8 | <2021-09-24> | 9:00 am  | Parviz Foroughian   | Data in the Enterprise           |        1 | X      | info@parvizforoughian.com      |
-|      9 | <2021-10-01> | 4:00 pm  |          |     |        1 |        |            |
+|      9 | <2021-10-01> | 4:00 pm  | José Ángel Sánchez Castillejos | taller sobre monorepos, automatizando con makefiles.|        2 |    X    |     jsanchezcastillejos@gmail.com   |
 |     10 | <2021-10-08> | 4:00 pm  | Ana B. Coronel      | Sector Financiero                |        1 | X      | abcoronel@bb.com.mx            |
 |     11 | <2021-10-15> | 10:00 am | Rodrigo Rivera      | Taller de MLOps                  |        2 | X      | rorcde@gmail.com               |
 |     12 | <2021-10-22> | 10:00 am | Rodrigo Rivera      | Taller de MLOps                  |        2 | X      | rorcde@gmail.com               |
