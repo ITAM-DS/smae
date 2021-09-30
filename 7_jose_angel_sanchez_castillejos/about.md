@@ -1,0 +1,1 @@
+Programador especializado en datos, trabajé en México en servidores físicos deployando tecnología de lectores de placas, más tarde entré a credijusto como científico de datos para calcular el riesgo, saliendo fui a bayer como data engineer y actualmente soy programador fullstack en Pinterest.
