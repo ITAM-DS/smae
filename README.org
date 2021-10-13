@@ -13,7 +13,7 @@
 |      8 | <2021-09-24> | 9:00 am  | Parviz Foroughian   | Data in the Enterprise           |        1 | X      | info@parvizforoughian.com      |
 |      9 | <2021-10-01> | 4:00 pm  | José Ángel Sánchez Castillejos | taller sobre monorepos, automatizando con makefiles.|2|X|jsanchezcastillejos@gmail.com|
 |     10 | <2021-10-08> | 4:00 pm  | Ana B. Coronel      | Sector Financiero                |        1 | X      | abcoronel@bb.com.mx            |
-|     11 | <2021-10-15> | 4:00 pm  | Oliver Lopez Corona | Los sistemas complejos como concepto clave  de la ciencia de datos|2|X| lopezoliverx@ciencias.unam.mx|
+|     11 | <2021-10-15> | 4:00 pm  | Oliver Lopez Corona | Los sistemas complejos como concepto clave  de la ciencia de datos|2|X| lopezoliverx@ciencias.unam.mx, https://www.lopezoliver.otrasenda.org/|
 |     12 | <2021-10-22> | 10:00 am | Rodrigo Rivera      | Taller de MLOps                  |        2 | X      | rorcde@gmail.com               |
 |     13 | <2021-10-29> | 4:00 pm  |                     |                                  |          |        |                                |
 |     14 | <2021-11-05> | 4:00 pm  | Carlos Correa       | Datos abiertos y geo-análisis    |        1 | X      | ccastro6@itam.mx               |
