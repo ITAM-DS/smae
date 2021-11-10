@@ -21,8 +21,8 @@
 |     16 | <2021-11-19> | 4:00 pm  | Mariana Carmona     | R en ambientes productivos       |        1 | X      | mcarmonabaez@gmail.com |
 |     17 | <2021-11-26> | 4:00 pm  | Alicia Mastretta Yanes     |        |        1 | X      |  |
 |--------+--------------+----------+---------------------+----------------------------------+----------+--------+--------------------------------|
-|        |              |          |                     |                                  |       17 |        |                                |
-#+TBLFM: $6=vsum(@2$6..@18$6)
+|        |              |          |                     |                                  |        |        |                                |
+#+TBLFM: $6=vsum(@4$6..@10$6)
 
 
 * Organización de Github ligada a Github Classroom
