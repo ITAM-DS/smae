@@ -17,7 +17,7 @@
 |     12 | <2021-10-22> | 10:00 am | Rodrigo Rivera      | Taller de MLOps                  |        2 | X      | rorcde@gmail.com               |
 |     13 | <2021-10-29> | 10:00 am  | Rodrigo Rivera     | Taller de MLOps (2a parte)       |        2 | X      | rorcde@gmail.com               |
 |     14 | <2021-11-05> | 10:00 am  | Jessica Barbosa | Ingeniería de datos   |        1 | X      |  jbarbosat.itam@gmail.com  |
-|     15 | <2021-11-12> | 4:00 pm  | Juan Lavista        |                                  |    1      |    X    |jlavista@microsoft.com                            |
+|     15 | <2021-11-12> | 4:00 pm  | Juan Lavista        |  Everything you always wanted to know about AI and AI For Good but were afraid to ask|    1      |    X    |jlavista@microsoft.com                            |
 |     16 | <2021-11-19> | 4:00 pm  | Mariana Carmona     | R en ambientes productivos       |        1 | X      | mcarmonabaez@gmail.com |
 |     17 | <2021-11-26> | 4:00 pm  | Alicia Mastretta Yanes     |        |        1 | X      |  |
 |--------+--------------+----------+---------------------+----------------------------------+----------+--------+--------------------------------|
