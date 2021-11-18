@@ -19,7 +19,7 @@
 |     14 | <2021-11-05> | 10:00 am  | Jessica Barbosa | Ingeniería de datos   |        1 | X      |  jbarbosat.itam@gmail.com  |
 |     15 | <2021-11-12> | 4:00 pm  | Juan Lavista        |  Everything you always wanted to know about AI and AI For Good but were afraid to ask|    1      |    X    |jlavista@microsoft.com                            |
 |     16 | <2021-11-19> | 4:00 pm  | Mariana Carmona     | R en ambientes productivos       |        1 | X      | mcarmonabaez@gmail.com |
-|     17 | <2021-11-26> | 4:00 pm  | Alicia Mastretta Yanes     |        |        1 | X      |  |
+|     17 | <2021-11-26> | 4:00 pm  | Alicia Mastretta Yanes|Cómputo - ciencia de datos y biodiversidad: de genes a ecosistemas|        1 | X | amastretta@conabio.gob.mx |
 |--------+--------------+----------+---------------------+----------------------------------+----------+--------+--------------------------------|
 |        |              |          |                     |                                  |        |        |                                |
 #+TBLFM: $6=vsum(@4$6..@10$6)
