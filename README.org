@@ -1,7 +1,7 @@
 #+TITLE: Seminario de Métodos Analíticos de la Empresa
 #+AUTHOR: Prof. Alfredo Garbuno Iñigo
 #+EMAIL:  agarbuno@itam.mx
-#+DATE: ~Otoño, 2022~
+#+DATE: ~Otoño, 2023~
 #+STARTUP: showall
 :REVEAL_PROPERTIES:
 #+LANGUAGE: es
@@ -26,8 +26,6 @@
 #+bibliography: references.bib
 #+cite_export: csl
 :END:
-
-
 
 * Objetivo
 :PROPERTIES:
@@ -56,46 +54,41 @@ inscritas en el seminario.
 :PROPERTIES:
 :CUSTOM_ID: calificación
 :END:
-| Ensayos y/o ejercicios (4) | Participación |
-|----------------------------+---------------|
-| 70 %                       | 30%           |
+| Ensayos y/o ejercicios (4) | Participación | Talleres |
+|----------------------------+---------------|----------|
+| 30 %                       | 30%           | 40%      |
 
 #+REVEAL: split
-De todas las pláticas o talleres que se darán elegir 4 para realizar 4
+De todas las pláticas que se darán elegir 3 para realizar 3
 entregas. Las entregas son ensayos de extensión entre 800 y 1000
-palabras y/o ejercicios que se den.
+palabras.
 
 #+REVEAL: split
-👉 las 4 que elijan deben estar repartidas a lo largo del semestre, no
+👉 las 3 que elijan deben estar repartidas a lo largo del semestre. Por ejemplo, no
 se aceptarán entregas que únicamente sean de la última semana de octubre
-y las del mes de noviembre, por ejemplo.
+y las del mes de noviembre.
 
 #+REVEAL: split
-Podrían entregar por ejemplo 3 ensayos y 1 ejercicios, sólo 4 ensayos o
-cualquier combinación que resulte en cuatro entregas en total.
-
 Además, durante las pláticas y/o talleres deben participar con preguntas
 o contar experiencias relacionadas con los temas tratados que generen
 discusiones.
 
 #+REVEAL: split
 👉 así como con las entregas, deben juntar en todo el semestre mínimo
-tres participaciones y deben ser repartidas. Una por ejemplo en el mes
+tres participaciones y deben ser repartidas de igual forma. Una por ejemplo en el mes
 de agosto, otra en el mes de septiembre y finalmente en el mes de
-noviembre, o bien alguna otra combinación que ustedes decidan. Con cada
+noviembre+, o bien alguna otra combinación que ustedes decidan. Con cada
 participación obtienen 10% y como máximo obtendrán 30%.
 
 * ¿Cuando, dónde, formato de mis entregas?
 :PROPERTIES:
 :CUSTOM_ID: cuando-dónde-formato-de-mis-entregas
 :END:
-La fecha máxima de las entregas es dos semanas una vez se imparte la plática o
-el taller.
+La *fecha máxima* de las entregas es dos semanas una vez se imparte la plática.
 
-En la ~organización de Github~ la cual está integrada con ~Github Classroom~ se
-suben sus entregas.
+En la ~organización de Github~ la cual está integrada con ~Github Classroom~ podrán subir sus entregas.
 
-Los documentos que se revisarán serán en formato ~pdf~. 
+Los documentos *sólo* se revisarán en formato ~pdf~. 
 
 * Sobre lo que nunca deben realizar
 :PROPERTIES:
@@ -110,10 +103,11 @@ escolar para realizar la anotación correspondiente en su expediente.
 :CUSTOM_ID: sobre-lo-que-siempre-deben-realizar
 :END:
 Documentar sus referencias, fuentes, colaboraciones y material que
-utilizan para resolver sus exámenes, prácticas o proyectos.
+utilizan para resolver sus exámenes, prácticas o proyectos. Esto 
+incluye a CHAT-GPT.
 
 * Agenda y organización de Github
 :PROPERTIES:
 :CUSTOM_ID: agenda-y-organización-de-github
 :END:
-La encuentran en [[https://github.com/ITAM-DS/smae/tree/fall-2022/agenda.org][fall-2022]]. 
+La encuentran en [[https://github.com/ITAM-DS/smae/tree/fall-2023/agenda.org][fall-2023]]. 
