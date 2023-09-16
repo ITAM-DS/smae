@@ -1,4 +1,4 @@
-#+TITLE: Seminario de Métodos Analíticos de la Empresa
+~/miniconda3/bin/conda init bash#+TITLE: Seminario de Métodos Analíticos de la Empresa
 #+AUTHOR: Prof. Alfredo Garbuno Iñigo
 #+EMAIL:  agarbuno@itam.mx
 #+DATE: ~Otoño, 2023~
